@@ -23,12 +23,6 @@ Aircrack-xs ist ein Tool, mit dem Benutzer WLAN-Netzwerke in ihrer Umgebung scan
 
 ### Schritt-für-Schritt-Anleitung
 
-1. **Repository klonen**:
-   Klone das Repository auf deinen lokalen Rechner:
-
-   ```bash
-   git clone https://github.com/# Aircrack-xs
-
 Aircrack-xs ist ein Tool, mit dem Benutzer WLAN-Netzwerke in ihrer Umgebung scannen, Verbindungen testen und Sicherheitslücken identifizieren können. Diese Anwendung verwendet die Windows-Befehlszeile (`netsh`), um verfügbare WLAN-Netzwerke anzuzeigen, sowie benutzerdefinierte Funktionen, um mit diesen Netzwerken zu interagieren und zufällige Passwörter zu testen, um die Sicherheit von WLANs zu überprüfen.
 
 ## Funktionen
